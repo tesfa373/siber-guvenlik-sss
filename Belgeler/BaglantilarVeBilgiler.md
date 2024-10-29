@@ -3,108 +3,126 @@
 <a name="bazikaynaklar"></a>
 
 ---
+
 <h1 align="center">Bazı Kaynak Önerileri</h1>
 
-* ### Android Security
+- ### android internal security
+
   - :book: [Android Internals](http://newandroidbook.com/AIvI-M-RL1.pdf)
   - :globe_with_meridians: [Android security series](https://manifestsecurity.com/android-application-security)
   - :globe_with_meridians: [Mobile Systems and Smartphone Security](https://mobisec.reyammer.io/slides)
 
-* ### Books
-  - :book: *Godel, Escher, Bach* by Douglas Hofstadter
+- ### Books
 
-* ### Computer Science (Bilgisayar Bilimi)
+  - :book: _Godel, Escher, Bach_ by Douglas Hofstadter
+
+- ### Computer Science (Bilgisayar Bilimi)
+
   - :tv: [Harvard CS50x](https://cs50.harvard.edu/x/2022/) CS50's Introduction to Computer Science
   - :tv: [Computerphile](https://www.youtube.com/user/Computerphile)
   - :tv: [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)'s CS playlist
-  
- 
-* ### Open Source Society University (OSSU)
+
+- ### Open Source Society University (OSSU)
+
   - :tv: [Computer Science](https://github.com/ossu/computer-science) (Bilgisayar Bilimi) OSSU repository
   - :tv: [Data Science](https://github.com/ossu/data-science) (Veri Bilimi) OSSU repository
   - :tv: [Math](https://github.com/ossu/math) (Matematik) OSSU repository
 
-* ### Cryptography
+- ### Cryptography
+
   - :mortar_board: [Cryptography by Stanford University](https://www.coursera.org/learn/crypto)
   - :book: [Crypto101](https://www.crypto101.io)
   - :book: [The Joy of Cryptography](https://web.engr.oregonstate.edu/~rosulekm/crypto)
 
-* ### CTF
+- ### CTF
+
   - :globe_with_meridians: [Cyber Detective CTF](https://ctf.cybersoc.wales/) by Cardiff University
   - :globe_with_meridians: [Hacker101 CTF](https://ctf.hacker101.com/) by Hackerone
   - :globe_with_meridians: [OSINT quiz](https://twitter.com/Sector035/status/1211038518635614208) by Sector035
 
-* ### Digital Forensics
+- ### Digital Forensics
+
   - [Computer Forensics subreddit wiki](https://www.reddit.com/r/computerforensics/wiki/faq#wiki_forensics.3A_where.2Fhow_do_i_begin.3F)
 
-* ### Go
+- ### Go
+
   - :globe_with_meridians: [gobyexample.com](https://gobyexample.com)
   - :globe_with_meridians: [Go Türkiye Eğitim Kampı](https://www.youtube.com/playlist?list=PLX2txCMVbkjyqrdV5TsJ5iW-bhVNeBMaq)
 
-* ### Graphics
+- ### Graphics
+
   - :book: Photoshop for Dummies
   - :tv: [Piximperfect](https://www.youtube.com/channel/UCMrvLMUITAImCHMOhX88PYQ)
 
-* ### Information Security
+- ### Information Security
+
   - :information_source: [infocon.org](https://infocon.org) - Archive of various security related cons and podcasts
 
-* ### IoT Security
+- ### IoT Security
+
   - :information_source: [IoT Security 101](https://github.com/V33RU/IoTSecurity101)
 
-* ### JavaScript
+- ### JavaScript
+
   - :globe_with_meridians: [30 Days of JavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) - A step by step guide
 
-* ### Malware Analysis
+- ### Malware Analysis
+
   - :mortar_board: [Malware analysis course](https://class.malware.re/) by University of Cincinnati
 
-* ### OSINT
-  - :book: *Open Source Intelligence Techniques* by Michael Bazzell
+- ### OSINT
+
+  - :book: _Open Source Intelligence Techniques_ by Michael Bazzell
   - :tv: [10 minute tips](https://osintcurio.us/10-minute-tips/) by Osintcurious
   - :globe_with_meridians: [Crypto weekly](https://us14.campaign-archive.com/home/?u=c435f53a5568f7951404c8a38&id=7f8ca9c380) by Bellingcat
   - :globe_with_meridians: [How To Guides](https://www.bellingcat.com/category/resources/how-tos/) by Bellingcat
   - :globe_with_meridians: [OSINT weekly](https://sector035.nl/articles/category:week-in-osint) by Sector035
 
-* ### Programming
+- ### Programming
+
   - :mortar_board: [codecademy.com](https://www.codecademy.com/catalog/subject/all) - Freemium interactive courses
   - :book: [Free programming books](https://books.goalkicker.com/)
   - :globe_with_meridians: [learnxinyminutes.com](https://learnxinyminutes.com) - Quick overview of all languages in cheatsheet style
 
-* ### Python
+- ### Python
+
   - :globe_with_meridians: [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) - CS50 Python 2022
-  - :book: *Learn Python the hard way* by Zed Shaw
+  - :book: _Learn Python the hard way_ by Zed Shaw
   - :globe_with_meridians: [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) - A step by step guide
   - :tv: [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)'s Python playlist
   - 🌐 [Python Code Visualizer](https://pythontutor.com/)
 
-* ### Reverse Engineering
+- ### Reverse Engineering
+
   - :globe_with_meridians: [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE)
   - :book: [Reverse engineering for beginners](https://beginners.re/)
 
-* ### Ruby
+- ### Ruby
+
   - :globe_with_meridians: [The Odin Project](https://www.theodinproject.com/courses/ruby-programming) - A step by step guide with a lot of projects.
 
-* ### Web Security
+- ### Web Security
+
   - :book: The Web Application Hacker's Handbook
   - :tv: [bounty hunter's methodology](https://www.youtube.com/watch?v=Qw1nNPiH_Go)
   - :mortar_board: [Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university) by Bugcrowd
   - :mortar_board: [Web Security Academy](https://portswigger.net/web-security) by Portswigger
   - :mortar_board: [Web Security Course](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-) by Stanford University
 
-* ### YouTube channels
+- ### YouTube channels
   - :tv: [Art of The Problem](https://www.youtube.com/user/ArtOfTheProblem)
   - :tv: [Crash Course](https://www.youtube.com/user/crashcourse)
   - :tv: [ByteByteGo (Large-scale System Design)](https://www.youtube.com/@ByteByteGo)
+
 ---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
 
 <a name="baziprojefikirleri"></a>
 
 ---
-<h1 align="center">Bazı Proje Fikirleri</h1>
 
+<h1 align="center">Bazı Proje Fikirleri</h1>
 
 <details> 
 	<summary><strong>Gelir-Gider takip programı</strong></summary>
@@ -112,8 +130,8 @@
 
 - Hedef: Aylık gelirler ve giderlerin girilip hesaplanacağı bir program.
   - Gelirler ve giderlerden artakalan para az ise program kullanıcıya çeşitli tavsiyeler önerebilir.
-		</p>
-</details>
+  </p>
+  </details>
 
 <details> 
 	<summary><strong>Kelime/Metin istatistiği</strong></summary>
@@ -121,8 +139,8 @@
 
 - Hedef: Verilen kelimenin veya cümlenin içinde geçen sesli, sessiz, sayı ve özel karakterleri sayan program.
   - Eğer tek kelime verilmişse harf istatistiği, cümle verilmişse harf istatistiği yanında kelime sayısı sunulmalı.
-		</p>
-</details>
+  </p>
+  </details>
 
 <details> 
 	<summary><strong>Para birimi çevirici</strong></summary>
@@ -130,18 +148,18 @@
 
 - Hedef: Verilen para birimini ve miktarını güncel kur üzerinden belirli birimlere çevirme.
   - Girilen değer ve birim, istenen değer ve birim ile aynı ise uyarı verilmeli.
-		</p>
-</details>
+  </p>
+  </details>
 
 <details> 
 	<summary><strong>Rastgele şifre oluşturucu</strong></summary>
 		<p>
 
 - Hedef: Kullanıcının istediği uzunlukta bir şifre oluşturucu.
-   - Kullanıcı isterse şifre içerisinde sadece harf, sadece sayı veya her ikisi karışık biçimde kullanabilir.
-   - Eğer harf veya sayı kategorisinden en az biri kullanıldıysa isteğe bağlı özel karakter eklenebilir (!#$%&@€₺ gibi karakterler)
-		</p>
-</details>
+  - Kullanıcı isterse şifre içerisinde sadece harf, sadece sayı veya her ikisi karışık biçimde kullanabilir.
+  - Eğer harf veya sayı kategorisinden en az biri kullanıldıysa isteğe bağlı özel karakter eklenebilir (!#$%&@€₺ gibi karakterler)
+  </p>
+  </details>
 
 <details> 
 	<summary><strong>Seçim sihirbazı</strong></summary>
@@ -149,17 +167,17 @@
 
 - Hedef: Kullanıcının vereceği değerleri karıştırıp kullanıcıya sonucu söyleyen program
   - Ekstradan verilen sayıya göre döngü kendini tekrar edip en çok tekrar eden kelimeyi kullanıcıya sunmalı.
-		</p>
-</details>
+  </p>
+  </details>
 
 <details> 
 	<summary><strong>Sıcaklık çevirici</strong></summary>
 		<p>
 
--  Hedef: Verilen sıcaklık değerini diğer sıcaklık birimlerine çeviren uygulama (°C, °F, Kelvin...)
-   - Girilen değer ve birim, istenen değer ve birim ile aynı ise uyarı verilmeli.
-		</p>
-</details>
+- Hedef: Verilen sıcaklık değerini diğer sıcaklık birimlerine çeviren uygulama (°C, °F, Kelvin...)
+  - Girilen değer ve birim, istenen değer ve birim ile aynı ise uyarı verilmeli.
+  </p>
+  </details>
 
 <details> 
 	<summary><strong>Zar atma uygulaması</strong></summary>
@@ -168,19 +186,18 @@
 - Hedef: Kullanıcının istediği sayı kadar zar atılan proje (2 yazarsa 2 tane zar atmalı)
   - İsteğe bağlı zarlar yan yana dizilebilir.
   - İsteğe bağlı zarların rengi ve şekli değiştirilebilir veya açık olan CMD ekranının ortasında gösterilebilir.
-		</p>
-</details>
-
+  </p>
+  </details>
 
 <details> 
 	<summary><strong>Ne kadar zamandır yaşıyorsun?</strong></summary>
 		<p>
 
 - Hedef: Verilen doğum tarihinden bu yana geçen tüm süreyi bir istatistik biçiminde sunan program.
-  - Yıl, Ay, Hafta, Gün, Saat, Dakika, Saniye ve Yaş biçiminden sonuç verilmeli. 
+  - Yıl, Ay, Hafta, Gün, Saat, Dakika, Saniye ve Yaş biçiminden sonuç verilmeli.
   - isteğe bağlı geçen toplam mevsimlerin, özel günlerin veya 29 şubatların sayısı gibi farklı farklı bilgiler sorgulanabilir :)
-		</p>
-</details>
+  </p>
+  </details>
 
 <details> 
 	<summary><strong>Saat uygulaması</strong></summary>
@@ -190,8 +207,8 @@
   - İsteğe bağlı analog tip saat kullanılabilir. A ve D tuşuna basar basmaz saat tipi değiştirilebilir.
   - Saat yanına saniye özelliği, saatin altında daha küçük font boyutunda tarih gösterilebilir. T tuşuna basınca tarih gizlenip gösterilebilir.
   - İsteğe bağlı saat rengi değiştirilebilir.
-		</p>
-</details>
+  </p>
+  </details>
 
 <details> 
 	<summary><strong>Şifre yöneticisi</strong></summary>
@@ -200,18 +217,18 @@
 - Hedef: Kullanıcının şifrelerini saklayabileceği bir kasa projesi.
   - Kullanıcı şifrelerin saklandığı dosyaya ekstradan şifre koymalı.
   - Şifre dosyası ekstradan bir şifreleme metodu ile şifrelenmeli.
-		</p>
-</details>
+  </p>
+  </details>
 
 <details> 
 	<summary><strong>Taş kağıt makas oyunu</strong></summary>
 		<p>
 
 - Hedef: Standart taş kağıt makas oyunu
-   - Kullanıcı isteğe göre iki kişi ile oynayabilir veya bilgisayar ile oynayabilmeli
-   - İsteğe bağlı puanlama sistemi kullanılabilir. Kullanıcının girdiği sayıya göre (3 veya 5 sayı yapan) oyunu kazanabilmeli
-		</p>
-</details>
+  - Kullanıcı isteğe göre iki kişi ile oynayabilir veya bilgisayar ile oynayabilmeli
+  - İsteğe bağlı puanlama sistemi kullanılabilir. Kullanıcının girdiği sayıya göre (3 veya 5 sayı yapan) oyunu kazanabilmeli
+  </p>
+  </details>
 
 <details> 
 	<summary><strong>Youtube video indirici</strong></summary>
@@ -221,8 +238,8 @@
   - Verilen link girildikten sonra çekilecek dosyaların biçimi (mp3, mp4, aac, wav, avi vs...)
   - Verilen biçim girildikten sonra dosya kalitesi seçimi (720p, 360p, 128kbps, 192kbps vs...)
   - Dosyaların kaydedileceği konumu belirleme veya otomatik bir klasöre kaydetme.
-		</p>
-</details>
+  </p>
+  </details>
 
 <details> 
 	<summary><strong>Adam asmaca oyunu</strong></summary>
@@ -232,14 +249,14 @@
   - İki kişilik oyunda bir kişi dilerse kendi istediği kelimeyi seçip diğer kullanıcıya sunabilmeli.
   - Eğer kullanıcı kelime girmezse web üzerinden bir kelime haznesinden veya yerel bir kelime haznesinden kelime seçilmeli.
   - İngilizce ve Türkçe kelimeler arasından oynanabilmeli. İsteğe bağlı film isimleri, artistler, şehir isimleri ile oynanabilmeli.
-  -  Oyuncular için puan ve can özelliği olmalı. Kullanıcı her doğru girdiği harf için belirli miktarda puan kazanmalı. Puanların toplamı belirli bir seviyeyi geçerse ekstra can hakkı tanımlanmalı.
+  - Oyuncular için puan ve can özelliği olmalı. Kullanıcı her doğru girdiği harf için belirli miktarda puan kazanmalı. Puanların toplamı belirli bir seviyeyi geçerse ekstra can hakkı tanımlanmalı.
   - Denenmiş bir harfin tekrar yazılması durumunda uyarı verilmeli. Ve bu sırada can veya puandan eksiltilme yapılmamalı. Denenmiş harflerin ekranda görülmesi sağlanmalı.
   - Harf dışında şu durumlarda uyarı verilmeli. Bu sırada yine can veya puandan eksiltilme yapılmamalı.
     - Birden fazla harf yazıldığında,
     - Sayı veya özel karakter girildiğinde
   - Her hamle sonrası ekran temizlenip tahta yeniden basılmalı (isteğe bağlı adam asmaca oyunundaki gibi adam eklenebilir.)
-		</p>
-</details>
+  </p>
+  </details>
 
 <details> 
 	<summary><strong>Port Scanner</strong></summary>
@@ -247,11 +264,11 @@
 
 - Hedef: Verilen ip adresi üzerindeki açık olan portları tarayan program
   - Eğer port verilmezse tüm portlar taranmalı.
-  - TCP, UDP, Servis ve sürüm taraması için ayrı parametreler kullanılmalı. 
+  - TCP, UDP, Servis ve sürüm taraması için ayrı parametreler kullanılmalı.
   - Ekstra script çalıştırma imkanı sunulmalı.
   - Çıktılar uzun ise bir dosyaya otomatik yazdırma parametresi bulunmalı.
-		</p>
-</details>
+  </p>
+  </details>
 
 <details> 
 	<summary><strong>Güncel kur takip programı</strong></summary>
@@ -261,47 +278,43 @@
   - İstenilen kurlar arası çeviri.
   - İstenirse Windows platformlarda bildirim gönderme.
   - Takip edlien kur belli bir miktarı geçtiğinde yapılabilcek bir otomasyon.
-		</p>
-</details>
-
+  </p>
+  </details>
 
 <details> 
 	<summary><strong>Basit Mesajlaşma Uygulaması</strong></summary>
 		<p>
 
 - Hedef: SocketIO ve nodejs kullanarak gerçek zamanlı bir mesajlaşma uygulaması yapmak.
-		</p>
+</p>
 </details>
 
 ---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
 
 <a name="bazitwitchkanallari"></a>
 
 ---
+
 <h1 align="center">Bazı Twitch Kanalları</h1>
 
 - [Astrofotografi](https://www.twitch.tv/astrofotografi)
 - [BugcrowdOfficial](https://www.twitch.tv/bugcrowdofficial)
 - [LuNiZz](https://www.twitch.tv/lunizz)
-- [Mdisec](https://www.twitch.tv/mdisec) 
+- [Mdisec](https://www.twitch.tv/mdisec)
 - [Nahamsec](https://twitch.tv/nahamsec)
 - [TheCyberMentor](https://twitch.tv/thecybermentor)
 - [Utku Sen](https://www.twitch.tv/utku1337)
 
 ---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
-
 
 <a name="baziyoutubekanallari"></a>
 
 ---
+
 <h1 align="center">Bazı Youtube Kanalları</h1>
 
 - [Can Değer](https://www.youtube.com/c/candeger)
@@ -314,46 +327,43 @@
 - [RSAConference](https://www.youtube.com/c/RSAConference)
 
 ---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
-
 
 <a name="bugbounty"></a>
 
 ---
+
 <h1 align="center">Bug Bounty Mevzusu</h1>
 
-  - [Bug Bounty konusunda NAHAMSEC'in yayınladığı başlangıç ve gelişim rehberi..](https://github.com/LuNiZz/Resources-for-Beginner-Bug-Bounty-Hunters ) Süper kaynak  
-  - [Bug Bounty'e yeni başlayanlar için Hackerone'ın hazırladığı CTF'ler ile desteklenmiş bir site](https://www.hacker101.com)
-  - [Bug Bounty](https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting)
-  - [Bug Hunting Methodology](https://medium.com/a-bugz-life/bug-hunting-methodology-from-an-average-bug-hunter-6eb7b5d41a6f)
-  - [BugCrowd Univeristy](https://www.bugcrowd.com/hackers/bugcrowd-university)
-  - [Hackerone kurucusu "nasıl başlamalıyız" sorusuna cevap veriyor](https://www.quora.com/Hackers-How-can-I-get-started-with-hacking/answer/Jobert-Abma)
-  - [Hackerone sıralanmış raporlar](https://github.com/reddelexc/hackerone-reports)
-  - [PortSwigger in Akademisi](https://portswigger.net/web-security)
-  - BC University'nin [Youtube playlisti](https://www.youtube.com/watch?v=OVr7pnwJ2m8&list=PLIK9nm3mu-S4K4jMHwtplbrE1JMg0jyN-) var, Böylelikle yukarıdaki dokümanları video halinde izleyebilirsin.
-  - [Bug Bounty Resourcces](https://bugbountyforum.com/resources/?utm_source=website&utm_medium=forum&utm_content=education&utm_campaign=resourcekits)
-  
-  İlk kazandığın paradan bizi de görürsün sevgili kardeşim.. ;)  
-  
-  ---
+- [Bug Bounty konusunda NAHAMSEC'in yayınladığı başlangıç ve gelişim rehberi..](https://github.com/LuNiZz/Resources-for-Beginner-Bug-Bounty-Hunters) Süper kaynak
+- [Bug Bounty'e yeni başlayanlar için Hackerone'ın hazırladığı CTF'ler ile desteklenmiş bir site](https://www.hacker101.com)
+- [Bug Bounty](https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting)
+- [Bug Hunting Methodology](https://medium.com/a-bugz-life/bug-hunting-methodology-from-an-average-bug-hunter-6eb7b5d41a6f)
+- [BugCrowd Univeristy](https://www.bugcrowd.com/hackers/bugcrowd-university)
+- [Hackerone kurucusu "nasıl başlamalıyız" sorusuna cevap veriyor](https://www.quora.com/Hackers-How-can-I-get-started-with-hacking/answer/Jobert-Abma)
+- [Hackerone sıralanmış raporlar](https://github.com/reddelexc/hackerone-reports)
+- [PortSwigger in Akademisi](https://portswigger.net/web-security)
+- BC University'nin [Youtube playlisti](https://www.youtube.com/watch?v=OVr7pnwJ2m8&list=PLIK9nm3mu-S4K4jMHwtplbrE1JMg0jyN-) var, Böylelikle yukarıdaki dokümanları video halinde izleyebilirsin.
+- [Bug Bounty Resourcces](https://bugbountyforum.com/resources/?utm_source=website&utm_medium=forum&utm_content=education&utm_campaign=resourcekits)
+
+İlk kazandığın paradan bizi de görürsün sevgili kardeşim.. ;)
+
+---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
-
 
 <a name="bulutkaynaklari"></a>
 
 ---
+
 <h1 align="center">Bazı bulut kaynakları</h1>
 
-* ### [Birçok bulut guvenlik kaynağının bulunduğu site <<<](https://github.com/4ndersonLin/awesome-cloud-security)
-* ### [LuNiZz-Can Deger'in AWS Güvenlik Uzmanlığı Çalışma Kılavuzu](https://github.com/LuNiZz/awssec)
+- ### [Birçok bulut guvenlik kaynağının bulunduğu site <<<](https://github.com/4ndersonLin/awesome-cloud-security)
+- ### [LuNiZz-Can Deger'in AWS Güvenlik Uzmanlığı Çalışma Kılavuzu](https://github.com/LuNiZz/awssec)
 
-* ### AWS
+- ### AWS
+
   - [AWS Security Blog](https://rhinosecuritylabs.com/blog/?category=aws)
   - [AWS Security Tool List](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
   - [AWS for beginners (ingilizce)](https://www.youtube.com/watch?v=ulprqHHWlng)
@@ -382,25 +392,25 @@
   - [100 Level Foundational Labs](https://www.wellarchitectedlabs.com/security/100_labs/)
   - [AWS Live Talks Türkçe](https://www.youtube.com/playlist?list=PLdEVi-7f6Ie9WJH_ySLOVU8ODZS94Hm2C)
 
-* ### [Bulut Bilişim Hakkında Udemy Kursu](https://www.udemy.com/course/bulut-bilisim-temelleri-ve-aws-cozum-mimarligina-giris/) <<<
+- ### [Bulut Bilişim Hakkında Udemy Kursu](https://www.udemy.com/course/bulut-bilisim-temelleri-ve-aws-cozum-mimarligina-giris/) <<<
+
   - Bu önemli bir eğitimdir. Ayrıca Özgür Öztürk, twitter'da eğitimleri için indirim kuponları yayınlıyor. Bakınız: https://twitter.com/ozgurozturknet
 
-* ### Bulutistan kaynaklari:
+- ### Bulutistan kaynaklari:
   - [Bulut Bilişim Nedir?](https://bulutistan.com/blog/bulut-bilisim/)
   - [Bulut Depolama Nedir?](https://bulutistan.com/blog/bulut-depolama-nedir/)
   - [Cloud Migration Nedir?](https://bulutistan.com/blog/cloud-migration-bulut-migrasyonu-nedir/)
-  - [Cloud Nedir?](https://bulutistan.com/blog/public-cloud-nedir/) 
-  - [Hibrit Cloud Nedir?](https://bulutistan.com/blog/hybrid-cloud-hibrit-bulut-nedir/)         
+  - [Cloud Nedir?](https://bulutistan.com/blog/public-cloud-nedir/)
+  - [Hibrit Cloud Nedir?](https://bulutistan.com/blog/hybrid-cloud-hibrit-bulut-nedir/)
   - [Multi Cloud Nedir?](https://bulutistan.com/blog/multi-cloud-nedir/)
   - [PaaS Nedir?](https://bulutistan.com/blog/paas/)
-  - [Private Cloud Nedir?](https://bulutistan.com/blog/private-cloud-nedir/)  
+  - [Private Cloud Nedir?](https://bulutistan.com/blog/private-cloud-nedir/)
   - [Serverless Computing Nedir?](https://bulutistan.com/blog/serverless/)
-               
-* ### Çeşitli Kaynaklar:                     
+- ### Çeşitli Kaynaklar:
   - [AMAZON'un Bulut Bilişim Hakkında Türkçe Kaynağı](https://aws.amazon.com/tr/what-is-cloud-computing/)
   - [Ayrıca çok başarılı bir AZURE kanalı](https://www.youtube.com/watch?v=_x1V2ny8FWM&list=PLlVtbbG169nETlTE5AsN-AZZllMzll5Sk)
   - [Azure İçin Başlangıç Eğitimi](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
-	Bu modül ile başlarsanız, hem AZ900 sertifikasını alabilirsiniz, hemde olayı iyi anlarsınız. Belge tamamen yazılı olduğu için translate ile türkçe olarak çalışabilirsiniz.
+    Bu modül ile başlarsanız, hem AZ900 sertifikasını alabilirsiniz, hemde olayı iyi anlarsınız. Belge tamamen yazılı olduğu için translate ile türkçe olarak çalışabilirsiniz.
   - [Microsoft'un Learning Kaynakları (Azure ve daha fazlası)](https://github.com/MicrosoftLearning)
   - [AZURE'nin Bulut Bilişim Hakkında Türkçe Kaynağı](https://azure.microsoft.com/tr-tr/overview/what-is-cloud-computing/)
   - [Azure Sertifikalarına Çalışmak İçin Kaynaklar](https://github.com/johnthebrit/CertificationMaterials)
@@ -410,51 +420,47 @@
   - [GCP icin SkillBoost yayinlari](https://www.youtube.com/playlist?list=PLiDWbgs16GaaoZhP-KHlIT0rkXldlDsri)
   - [GDG Cloud Ankara Topluluğu](https://kommunity.com/gdg-cloud-ankara)
   - [IBM'in Bulut Bilişim Hakkında Türkçe Kaynağı](https://www.ibm.com/tr-tr/cloud/learn/cloud-computing)
-                  
-* ### Udemy'den Seçmeler:
+- ### Udemy'den Seçmeler:
   - [Ücretsiz Udemy AWS Kursu](https://www.udemy.com/course/cloud-computing-with-amazon-web-services-part-1/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-0ou4TmoZyiZCxWVANAhulg&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
   - [Bir Başka Ücretsiz Udemy AWS Kursu](https://www.udemy.com/course/introduction-to-aws-cloud-computing/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-bd1uVMGT3rmGKvarWZ2DUA&utm_source=aff-campaign&LSNPUBID=JVFxdTr9V80&utm_medium=udemyads)
-  - [Ücretsiz Udemy GCP Konseptleri Eğitimi](https://www.udemy.com/course/gcp-google-cloud-platform-concepts/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-Ax9MgcHTO6djrlJ8Stil1A&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)         
+  - [Ücretsiz Udemy GCP Konseptleri Eğitimi](https://www.udemy.com/course/gcp-google-cloud-platform-concepts/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-Ax9MgcHTO6djrlJ8Stil1A&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
 
 ---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
-
 
 <a name="cheatsheetler"></a>
 
 ---
+
 <h1 align="center">Cheat Sheet'ler</h1>
 
-  - [BugBounty](https://github.com/EdOverflow/bugbounty-cheatsheet)
-  - [Metasploit](https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf)
-  - [Nmap](https://stationx-public-download.s3.us-west-2.amazonaws.com/nmap_cheet_sheet_v7.pdf)
-  - [Pentest](https://github.com/Tib3rius/Pentest-Cheatsheets)
-  - [Python](https://www.pythoncheatsheet.org)
-  - [SQL Injection](https://portswigger.net/web-security/sql-injection/cheat-sheet)
-  - [XSS](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet.pdf)
-  - [Vim](https://vim.rtorr.com/)
-  - [C++](https://github.com/mortennobel/cpp-cheatsheet)
-  - [Bash](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
+- [BugBounty](https://github.com/EdOverflow/bugbounty-cheatsheet)
+- [Metasploit](https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf)
+- [Nmap](https://stationx-public-download.s3.us-west-2.amazonaws.com/nmap_cheet_sheet_v7.pdf)
+- [Pentest](https://github.com/Tib3rius/Pentest-Cheatsheets)
+- [Python](https://www.pythoncheatsheet.org)
+- [SQL Injection](https://portswigger.net/web-security/sql-injection/cheat-sheet)
+- [XSS](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet.pdf)
+- [Vim](https://vim.rtorr.com/)
+- [C++](https://github.com/mortennobel/cpp-cheatsheet)
+- [Bash](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
+
 ---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
-
 
 <a name="cesitlikaynaklar"></a>
 
 ---
+
 <h1 align="center">Çeşitli Kaynaklar ve Web Siteleri</h1>
 
-* Türkçe
-  - Bol goygoylu, TryHackMe'nin baslangıç odalarını yaptığım, [*"Hacking The TEMEL video serisi"*](https://www.twitch.tv/collections/sHv1c2HZEhaHFQ) (videolari hızlıda seyret bence ;) )
+- Türkçe
+  - Bol goygoylu, TryHackMe'nin baslangıç odalarını yaptığım, [_"Hacking The TEMEL video serisi"_](https://www.twitch.tv/collections/sHv1c2HZEhaHFQ) (videolari hızlıda seyret bence ;) )
   - [ArkaKapı](https://read.arkakapimag.com/)
   - [Beyaz şapkalı Hacker Eğitim Notları](https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari)
-  - BTK Akademi                   
+  - BTK Akademi
     - [Siber güvenlik analisti](https://www.btkakademi.gov.tr/portal/course/siber-guvenlik-analisti-egitimi-5020#!/about)
     - [Uygulamalı sızma testi eğitimi](https://t.co/UujGK4FW9p?amp=1)
     - [Web Güvenliği](https://www.btkakademi.gov.tr/portal/course/web-uygulama-guvenligi-10587#!/about)
@@ -473,15 +479,15 @@
   - [Web uygulama güvenliği TUBITAK](https://afyonluoglu.org/PublicWebFiles/cyber/egitim/sgep/SGEP-UYG303.pdf)
   - [Linux Journey](https://linuxjourney.com/)
   - [Windows ve Linux Privilege Escalation](https://www.exploit-db.com/docs/turkish/42757-%5Bturkish%5D-windows-and-linux-privilege-escalation.pdf)
-  - Web uygulama güvenliği eğitimleri :             
-    https://www.youtube.com/watch?v=WqY4oUPiPw0              
-    https://www.youtube.com/watch?v=cyLRG0J2-jY                
+  - Web uygulama güvenliği eğitimleri :  
+    https://www.youtube.com/watch?v=WqY4oUPiPw0  
+    https://www.youtube.com/watch?v=cyLRG0J2-jY  
     https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT
-   
-   
 
 ### YAZILIM
-* Türkçe
+
+- Türkçe
+
   - [1 videoda JavaScript Temelleri](https://www.youtube.com/watch?v=-ei7CLxoOVU)
   - [1 videoda Python temelleri](https://www.youtube.com/watch?v=tvvEqvyh_Vw)
   - [BTK'nın eğitimlerinin bulunduğu site](https://www.btkakademi.gov.tr)
@@ -492,14 +498,13 @@
   - [Python Dersleri](https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O)
   - [Shell Scripting](https://www.youtube.com/playlist?list=PLWctyKyPphPhGEQzwiY-gDpDQQlYULQa7)
   - [Tübitak Deneyap Atölyesi Kitapçıkları](https://yayinlar.tubitak.gov.tr/deneyap-atolyesi)
-  - [Yeni Başlayanlar için GO Programlama Dili](https://www.youtube.com/watch?v=qJqx7dxWW8I&list=PL-Hkw4CrSVq96dPr33xTdBjSgn9wKLHPa)  
+  - [Yeni Başlayanlar için GO Programlama Dili](https://www.youtube.com/watch?v=qJqx7dxWW8I&list=PL-Hkw4CrSVq96dPr33xTdBjSgn9wKLHPa)
 
-
-* İngilizce
+- İngilizce
   - [AWESOME serisi](https://github.com/LuNiZz/awesome), tüm IT konularında internette bulabileceğiniz en büyük kaynaklardan biri <a name="awesome"></a>
-    -   [Awesome HACKING](https://github.com/carpedm20/awesome-hacking#readme)
-    -   [Awesome SECURITY](https://github.com/sbilly/awesome-security#readme)
-    -   [Awesome WEB SECURITY](https://github.com/qazbnm456/awesome-wb-security#readme)
+    - [Awesome HACKING](https://github.com/carpedm20/awesome-hacking#readme)
+    - [Awesome SECURITY](https://github.com/sbilly/awesome-security#readme)
+    - [Awesome WEB SECURITY](https://github.com/qazbnm456/awesome-wb-security#readme)
   - [2000'den fazla hacking pdfleri](https://github.com/iamrajivd/pentest)
   - [Applicaion Sec. Web sitesi](https://application.security/free-application-security-training)
   - [Cs50 oyun gelistirme kursu](https://youtu.be/GfwpRU0cT10)
@@ -508,7 +513,7 @@
   - [Belli algoritmaları kurarak, verilen matematik problemini çözmeniz istenen bir web sitesi](https://projecteuler.net)
   - [Birçok Farklı Alanda 1500 Ücretsiz Kurs](http://www.openculture.com/freeonlinecourses)
   - [Bu da Coursera gibi](https://www.edx.org/)
-  - [Bug Bounty kapsamında bulduğunuz açıkları raporlayabileceğiniz bir   web sitesi](https://hackerone.com/)
+  - [Bug Bounty kapsamında bulduğunuz açıkları raporlayabileceğiniz bir web sitesi](https://hackerone.com/)
   - [Bugcrowd Üniversitesinin Eğitimleri](https://www.bugcrowd.com/hackers/bugcrowd-university/)
   - [Bulut (Cloud) Güvenliği](https://stanislas.io/2019/04/25/preparation-guide-for-microsoft-az-500-microsoft-azure-security-technologies-certification)
   - [CTF](https://captf.com/)
@@ -522,7 +527,7 @@
   - [Penetration Test](https://www.tutorialspoint.com/penetration_testing/index.htm)
   - [Penetration test web sitesi](https://www.tutorialspoint.com/penetration_testing/index.htm)
   - [Problemleri istediğiniz bir programlama dilini kullanarak çözmeniz istenen bir web sitesi](https://www.hackerrank.com)
-  - [Harvard Üniversitesi Python ile programlamaya giriş kursu 2022](https://cs50.harvard.edu/python/2022/) - CS50 Python 2022  
+  - [Harvard Üniversitesi Python ile programlamaya giriş kursu 2022](https://cs50.harvard.edu/python/2022/) - CS50 Python 2022
   - [Pwnable](http://pwnable.kr/)
   - [React JS Interview Questions](https://cdn.discordapp.com/attachments/605130756729077762/976848791024054352/1652254459637.pdf)
   - [Ücretli ve ücretsiz eğitimlerin bulunduğu bir web sitesi](https://www.cybrary.it/)
@@ -536,17 +541,14 @@
   - [Zafiyetli makinelere sızmaya çalışıp kendinizi test edebileceğiniz bir web sitesi](https://www.hackthebox.eu/)
   - [Zafiyetli makinelerle uğraşıp kendinizi geliştirebileceğiniz bir web sitesi](https://www.priviahub.com)
 
-
 ---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
-
-
-
-
-<a name="python3_baslangic_rehberi"></a>          
+<a name="python3_baslangic_rehberi"></a>
 
 ---
+
 <h1 align="center">Python3 Başlangıç Rehberi</h1>
 
 Python öğrenmek isteyenler için en iyi kaynaklar seçildi.
@@ -554,6 +556,7 @@ Python öğrenmek isteyenler için en iyi kaynaklar seçildi.
 ## Yazılı Kaynaklar
 
 ### İngilizce
+
 1. [python.org](https://www.python.org/doc/) - Resmi Python dokümantasyonu.
 2. [CS50 Python Giriş](https://cs50.harvard.edu/python/2022/) - Harvard Üniversitesi'nden temel Python dersleri.
 3. [Real Python](https://realpython.com/) - Python üzerine makaleler, projeler ve eğitimler içeren bir kaynak.
@@ -564,24 +567,28 @@ Python öğrenmek isteyenler için en iyi kaynaklar seçildi.
 8. [Beginning Ethical Hacking with Python](https://www.amazon.com/Beginning-Ethical-Hacking-Python-Sanjib/dp/1484225406) - Sanjib Sinha tarafından yazılan, Python kullanarak etik hacking temellerini öğreten bir kitap.
 
 ### Türkçe
+
 1. [YazBel Python](https://python-istihza.yazbel.com/) - Python'un temellerinden ileri seviyeye kadar detaylı bir Türkçe kaynak.
 2. [KodLab Python](https://www.kodlab.com/programlama/69-python-3-9786052118061.html) - Python3'e giriş seviyesinden başlayarak ileri seviyeye kadar adım adım anlatan bir kitap.
 
 ## Video Kaynaklar
 
 ### İngilizce
+
 1. [NeuralNine](https://youtube.com/@NeuralNine) - Python ve yapay zeka üzerine video içerikler sunan bir YouTube kanalı.
 2. [Tech With Tim](https://youtube.com/@TechWithTim) - Python programlaması ve yapay zeka üzerine eğitici içerikler sunan bir YouTube kanalı.
 3. [mCoding](https://youtube.com/@mCoding) - Python ve diğer programlama dilleri üzerine video içerikler sunan bir YouTube kanalı.
 4. [Complete Python 3 Ethical Hacking](https://www.udemy.com/course/python3course/) - Python kullanarak etik hack tekniklerini öğreten bir Udemy kursu.
 
 ### Türkçe
+
 1. [Murat Coşkun - Python | Sıfırdan İleri Seviye Programlama](https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/) - Python'u başlangıçtan ileri seviyeye kadar öğreten bir Udemy kursu.
 2. [Python 2024 : 100 Günlük Programlama Kampı](https://www.udemy.com/course/python-100-gunluk-yazilim-kampi/) - 100 günlük bir programlama kampı formatında Python öğreten bir Udemy kursu.
 
 ## Öğrenilmesi Önerilen Kütüphaneler ve Araçlar
 
 ### Web Geliştirme
+
 - Flask: Hafif ve esnek bir web uygulama çatısı.
 - Django: Tam teşekküllü bir web uygulama çatısı.
 - BeautifulSoup: Web scraping için kullanılan bir kütüphane.
@@ -589,141 +596,141 @@ Python öğrenmek isteyenler için en iyi kaynaklar seçildi.
 - Selenium: Web otomasyonu için kullanılan bir kütüphane.
 
 ### Düşük Seviye Ağ ve İşlem
+
 - socket: Ağ iletişimi için kullanılan standart Python kütüphanesi.
 - curses: Terminal tabanlı arayüzler oluşturmak için kullanılan bir kütüphane.
 - Cython: Python'u C ile entegre etmek için kullanılan bir araç.
 - struct: Byte dizilerini işlemek için kullanılan bir kütüphane.
 
 ### Yapay Zeka ve Makine Öğrenmesi
+
 - PyTorch, TensorFlow, Keras: Derin öğrenme ve makine öğrenmesi için popüler kütüphaneler.
 - Scikit-learn: Makine öğrenmesi algoritmaları için kullanılan bir kütüphane.
 
 ### Veri Analizi ve Görselleştirme
+
 - NumPy: Diziler ve matematik işlemleri için temel kütüphane.
 - Pandas: Veri analizi ve manipülasyonu için kullanılan bir kütüphane.
 - Matplotlib: Veri görselleştirmesi için kullanılan bir kütüphane.
 
 ### Oyun Geliştirme
+
 - PyGame: Oyun geliştirmek için kullanılan bir kütüphane.
 - Turtle: Grafiksel programlama öğrenmek için kullanılan bir kütüphane.
 
 ### Grafik Kullanıcı Arayüzü (GUI) Geliştirme
+
 - PyQt, Tkinter, Kivy: Python ile GUI uygulamaları geliştirmek için kullanılan kütüphaneler.
 - Pygame: Hem oyun geliştirme hem de GUI geliştirme için kullanılabilen bir kütüphane.
 
 ### Görüntü İşleme
+
 - OpenCV: Görüntü işleme ve bilgisayar görüşü için kullanılan bir kütüphane.
 - Pillow: Python Imaging Library (PIL) alternatifi olarak görüntü işleme için kullanılan bir kütüphane.
 
 ---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
-
 
 <a name="filmler"></a>
 
 ---
+
 <h1 align="center">Filmler</h1>
 
 <p align="center">
 
-| Filmin Adı              | Yıl     | IMDb Puanı      |
-| ---                     | :---:   | :---:           |
-| Tron                    | 1982    | 6,8/10          |
-| Wargames                | 1983    | 7,1/10          |
-| Sneakers                | 1992    | 7,1/10          |
-| Ghost in the Shell      | 1995    | 8,0/10          |   
-| Hackers                 | 1995    | 6,3/10          |   
-| The Net        	      | 1995    | 5,9/10          |   
-| Johnny Mnemonic         | 1995    | 5,2/10          |  
-| The Matrix              | 1999    | 8,7/10          |   
-| Takedown                | 2000    | 6,3/10          |
-| The Swordfish           | 2001    | 6,5/10          | 
-| Antitrust               | 2001    | 6,1/10          |
-| The Matrix Reloaded     | 2003    | 7,2/10          |
-| The Matrix Revolutions  | 2003    | 6,8/10          |
-| One Point O             | 2004    | 6,1/10          |
-| Firewall                | 2006    | 5,8/10          |
-| Die Hard 4              | 2007    | 7,1/10          |
-| Eagle Eye               | 2008    | 6,8/10          |
-| Untraceable             | 2008    | 6,2/10          |  
-| Wargames 2              | 2008    | 4,6/10          |
-| Tron: Legacy            | 2010    | 6,8/10          |
-| Disconnect              | 2012    | 7,5/10          |
-| Skyfall                 | 2012    | 7,7/10          |
-| The Fifth Estate        | 2013    | 6,2/10          |
-| Mickey Virus            | 2013    | 6,0/10          |
-| The Imitation Game      | 2014    | 8,0/10          | 
-| Whoami                  | 2014    | 7,6/10          |
-| Transcendence           | 2014    | 6,3/10          | 
-| The Signal              | 2014    | 6,1/10          | 
-| Unfriended              | 2014    | 5,5/10          |
-| Open Windows            | 2014    | 5,2/10          |
-| Algorithm               | 2014    | 4,8/10          |
-| Cyberbully              | 2015    | 6,8/10          | 
-| Ratter                  | 2015    | 5,5/10          | 
-| Blackhat                | 2015    | 5,4/10          |  
-| Snowden                 | 2016    | 7,3/10          |  
-| Nerve                   | 2016    | 6,5/10          |  
-| Hacker                  | 2016    | 6,2/10          |
-| IT                      | 2016    | 5,5/10          |
-| Unfriended: Dark Web    | 2016    | 5,9/10          |  
-| Ghost in the Shell      | 2017    | 6,3/10          | 
-| Hacker                  | 2019    | 5,2/10          |
+| Filmin Adı             | Yıl  | IMDb Puanı |
+| ---------------------- | :--: | :--------: |
+| Tron                   | 1982 |   6,8/10   |
+| Wargames               | 1983 |   7,1/10   |
+| Sneakers               | 1992 |   7,1/10   |
+| Ghost in the Shell     | 1995 |   8,0/10   |
+| Hackers                | 1995 |   6,3/10   |
+| The Net                | 1995 |   5,9/10   |
+| Johnny Mnemonic        | 1995 |   5,2/10   |
+| The Matrix             | 1999 |   8,7/10   |
+| Takedown               | 2000 |   6,3/10   |
+| The Swordfish          | 2001 |   6,5/10   |
+| Antitrust              | 2001 |   6,1/10   |
+| The Matrix Reloaded    | 2003 |   7,2/10   |
+| The Matrix Revolutions | 2003 |   6,8/10   |
+| One Point O            | 2004 |   6,1/10   |
+| Firewall               | 2006 |   5,8/10   |
+| Die Hard 4             | 2007 |   7,1/10   |
+| Eagle Eye              | 2008 |   6,8/10   |
+| Untraceable            | 2008 |   6,2/10   |
+| Wargames 2             | 2008 |   4,6/10   |
+| Tron: Legacy           | 2010 |   6,8/10   |
+| Disconnect             | 2012 |   7,5/10   |
+| Skyfall                | 2012 |   7,7/10   |
+| The Fifth Estate       | 2013 |   6,2/10   |
+| Mickey Virus           | 2013 |   6,0/10   |
+| The Imitation Game     | 2014 |   8,0/10   |
+| Whoami                 | 2014 |   7,6/10   |
+| Transcendence          | 2014 |   6,3/10   |
+| The Signal             | 2014 |   6,1/10   |
+| Unfriended             | 2014 |   5,5/10   |
+| Open Windows           | 2014 |   5,2/10   |
+| Algorithm              | 2014 |   4,8/10   |
+| Cyberbully             | 2015 |   6,8/10   |
+| Ratter                 | 2015 |   5,5/10   |
+| Blackhat               | 2015 |   5,4/10   |
+| Snowden                | 2016 |   7,3/10   |
+| Nerve                  | 2016 |   6,5/10   |
+| Hacker                 | 2016 |   6,2/10   |
+| IT                     | 2016 |   5,5/10   |
+| Unfriended: Dark Web   | 2016 |   5,9/10   |
+| Ghost in the Shell     | 2017 |   6,3/10   |
+| Hacker                 | 2019 |   5,2/10   |
+
 </p>
 
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
-
-
-
-
 <a name="githubrepolari"></a>
 
 ---
+
 <h1 align="center">Github Repoları</h1>
 
-  - [Autorecon](https://github.com/Tib3rius/AutoRecon)
-  - [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)
-  - [HackTheBox Makaleleri](https://github.com/Hackplayers/hackthebox-writeups)
-  - [Interactive Tutorials](https://github.com/ronreiter/interactive-tutorials)
-  - [OSCE Preparation](https://github.com/mdisec/osce-preparation)
-  - [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
-  - [TheArtofHacking - H4CKER](https://github.com/The-Art-of-Hacking/h4cker)
-  - [Web Güvenliği](https://github.com/om3rcitak/webguvenligi)
-  - [Writing External Python Modules](https://github.com/rapid7/metasploit-framework/wiki/Writing-External-Python-Modules)
-  - [Cyber Security Roadmap](https://github.com/0xTRAW/Cybersecurity-Roadmap)
+- [Autorecon](https://github.com/Tib3rius/AutoRecon)
+- [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)
+- [HackTheBox Makaleleri](https://github.com/Hackplayers/hackthebox-writeups)
+- [Interactive Tutorials](https://github.com/ronreiter/interactive-tutorials)
+- [OSCE Preparation](https://github.com/mdisec/osce-preparation)
+- [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
+- [TheArtofHacking - H4CKER](https://github.com/The-Art-of-Hacking/h4cker)
+- [Web Güvenliği](https://github.com/om3rcitak/webguvenligi)
+- [Writing External Python Modules](https://github.com/rapid7/metasploit-framework/wiki/Writing-External-Python-Modules)
+- [Cyber Security Roadmap](https://github.com/0xTRAW/Cybersecurity-Roadmap)
 
 ---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
-
 
 <a name="googlenasilkullanilir"></a>
 
 ---
+
 <h1 align="center">Google Nasıl Kullanılır?</h1>
 
 Öğrenmek istediğiniz bilgiyi ingilizce bir şekilde yazıyoruz ve aratıyoruz. Karşılaştığımız sorunlar için ise sorunu ingilizce bir biçimde yazıyoruz ve yanına "solution,how to,error" gibi ifadeler koyuyoruz ve muhtemelen bu sorunla ilk siz karşılaşmadığınız için sorunun cevabını bulacaksınızdır. Hatalar ve geri kalan her şey için aynısı geçerlidir. Lütfen discorda sormadan önce iyice araştırma yapınız.
 
 ---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
-
 
 <a name="ingilizcegenelkaynaklar"></a>
 
 ---
+
 <h1 align="center">İngilizce Genel Kaynaklar</h1>
 
-* ### Where to start learning pentesting? 
-	(Pentesting öğrenmeye nerden başlanır?)
+- ### Where to start learning pentesting?
+
+  (Pentesting öğrenmeye nerden başlanır?)
+
   - [Cybrary - Advanced Penetration Testing](https://app.cybrary.it/browse/course/advanced-penetration-testing)
   - [HackTheBox](https://www.hackthebox.eu)
   - [TCM - Cyber Career Paths - Penetration Testing](https://youtu.be/MM7qPnJSnLQ)
@@ -731,63 +738,74 @@ Python öğrenmek isteyenler için en iyi kaynaklar seçildi.
   - [Virtual Hacking Labs](https://www.virtualhackinglabs.com)
   - [VulnHub](https://www.vulnhub.com)
 
-* ### Where to start learning Python?
-	(Python öğrenmeye nereden başlanır?)
+- ### Where to start learning Python?
+
+  (Python öğrenmeye nereden başlanır?)
+
   - [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) - CS50 Python 2022
   - [Codecademy](https://www.codecademy.com)
   - [Cybrary - Python Security Professionals Archive](https://app.cybrary.it/browse/course/python-security-professionals-archive)
 
-* ### Where to start learning Linux?
-	(Linux öğrenmeye nereden başlanır?)
+- ### Where to start learning Linux?
+
+  (Linux öğrenmeye nereden başlanır?)
+
   - [Linux Journey](https://linuxjourney.com)
   - [OverTheWire - Bandit](http://overthewire.org/wargames/bandit)
   - [TCM - Beginner Linux for Ethical Hackers](https://www.youtube.com/playlist?list=PLLKT__MCUeiwfK18Io6kvwrrhqQyQnV5W)
 
-* ### Where to start with Web Application Security?
-	(Web uygulamaları güvenliğine nerden başlanır?)
+- ### Where to start with Web Application Security?
+
+  (Web uygulamaları güvenliğine nerden başlanır?)
+
   - [DVWA - Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
   - [HacksPlaining](https://www.hacksplaining.com)
   - [OWASP - Top Ten](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
   - [OWASP - Testing Guide PDF](https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf)
   - [OWASP - WebGoat Project](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
 
-* ### Where to start with Exploitation?
-	(Exploitation'a nereden başlanır?)
+- ### Where to start with Exploitation?
+
+  (Exploitation'a nereden başlanır?)
+
   - [Corelan](https://www.corelan.be/index.php/articles/)
   - [TCM - Buffer Overflows Made Easy](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
 
-* ### How to become BugBounty hunter and get all the monies?
-	(Bug bounty avcısı nasıl olunur?)
+- ### How to become BugBounty hunter and get all the monies?
+
+  (Bug bounty avcısı nasıl olunur?)
+
   - [SecurityBreached](https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting)
 
-* ### Internetteki UCUZ veya ÜCRETSİZ Siber Güvenlik Eğitimlerinin Tam Listesi
+- ### Internetteki UCUZ veya ÜCRETSİZ Siber Güvenlik Eğitimlerinin Tam Listesi
+
   - [NIST](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content)
 
-* ### Active Directory Pentest nasıl yapılır?
+- ### Active Directory Pentest nasıl yapılır?
+
   - [Domain Recon](https://blog.stealthbits.com/performing-domain-reconnaissance-using-powershell)
   - [Extracting Password Hashes](https://blog.stealthbits.com/extracting-password-hashes-from-the-ntds-dit-file)
   - [Local Admin Mapping](https://blog.stealthbits.com/local-admin-mapping-bloodhound)
   - [Pass the Hash with Mimicatz](https://blog.stealthbits.com/passing-the-hash-with-mimikatz)
 
-* ### Network Basics for Hackers
-	(Hackerlar için ağ temelleri)
+- ### Network Basics for Hackers
+  (Hackerlar için ağ temelleri)
   - [HackersArise](https://www.hackers-arise.com/networks-basics)
 
 ---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
-
 
 <a name="kitaplar"></a>
 
 ---
+
 <h1 align="center">Kitaplar</h1>
 
-- Başlamadan önce hack kültürü ile alakalı bir [E-kitap](http://ekitap.alternatifbilisim.org/pdf/hack-kulturu-ve-hacktivizm.pdf ) bırakıyorum. 
+- Başlamadan önce hack kültürü ile alakalı bir [E-kitap](http://ekitap.alternatifbilisim.org/pdf/hack-kulturu-ve-hacktivizm.pdf) bırakıyorum.
 
 * İngilizce
+
   - [GoalKicker](https://goalkicker.com/)
   - [The Phoenix Project](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8)
   - [The Unicorn Project](https://www.amazon.co.uk/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41)
@@ -798,20 +816,21 @@ Python öğrenmek isteyenler için en iyi kaynaklar seçildi.
   - [Çok iyi bir Türkçe Kaynak](https://www.kitapyurdu.com/kitap/ethicalhackingoffensivevedefensive/451361.html&manufacturer_id=188125)
   - [Herkes için Siber Güvenlik](https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf)
   - [Siber Güvenlik Saldırı ve Savunma Stratejileri](https://www.akakce.com/bilgisayar-kitaplari/en-ucuz-siber-guvenlik-saldiri-ve-savunma-stratejileri-fiyati,732880898.html)
+
 ---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
-
 
 <a name="kurslar"></a>
 
 ---
+
 <h1 align="center">Kurslar</h1>
 
 ## Ücretli Kurslar
-* İngilizce
+
+- İngilizce
+
   - [Cyber Security Information](https://www.pluralsight.com/browse/information-cyber-security)
   - [Ethical Hacking](https://www.pluralsight.com/courses/ethical-hacking-understanding)
   - [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch)
@@ -820,30 +839,32 @@ Python öğrenmek isteyenler için en iyi kaynaklar seçildi.
   - [Practical Ethical Hacking](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
   - [Windows Privillege Escalation for Beginners](https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners)
 
-* Türkçe
+- Türkçe
   - [Sıfırdan ileri Seviye'ye Python](https://www.udemy.com/course/python-sifirdan-ileri-seviyeye)
   - [C# ve JAVA başlangıç seviyeleri için, içerisinde kurs sonu ödevler de bulunan bir site](https://www.kodlama.io/)
 
-
 ## Ücretsiz Kurslar
-* ### Udemy 
+
+- ### Udemy
   - [Gökhan Muharremoğlu](https://www.udemy.com/course/gokhanmuharremoglu)
   - [Picus Academy](https://academy.picussecurity.com/)
   - [UdemyFreebies - Reddit](https://www.reddit.com/r/udemyfreebies)
 
-
 ## Harvard'ın CS50 Ders Kayıtları
+
 - https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA
-> - Bu youtube kanalında Zoom üzerinden yayınlanan canlı dersler'de yayınlanıyor.
-> - NOT: Aynı zamanda Zoom üzerinden de sınıftan canlı yayın yapılmaktadır ancak derslere giriş yapmak için önceden kayıt olmak gerekiyor. Canlı Derslere Kayıt: https://cs50.harvard.edu/x/2021/zoom/
+  > - Bu youtube kanalında Zoom üzerinden yayınlanan canlı dersler'de yayınlanıyor.
+  > - NOT: Aynı zamanda Zoom üzerinden de sınıftan canlı yayın yapılmaktadır ancak derslere giriş yapmak için önceden kayıt olmak gerekiyor. Canlı Derslere Kayıt: https://cs50.harvard.edu/x/2021/zoom/
 
 ## Para verip sertifikasını alabileceğiniz ücretsiz kurslar
+
 - [CyberSecurity Basics](https://www.edx.org/course/cybersecurity-basics)
 - [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=de2e4ba53714d083bf68f2463b6cc33c&position=1)
 - [Introduction to Linux](https://www.edx.org/course/introduction-to-linux?index=product&queryID=774b903ad29ee024fea69bbd4f3ea99c&position=1)
 - [IBM Python Basics for Data Science](https://www.edx.org/course/python-basics-for-data-science?index=product&queryID=12642d47e76e4b472dbb1e4d4f001f19&position=1)
 
 ## Youtube
+
 - Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: https://www.youtube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q
 - CCNA ve Network+ adında iki sertifika var ama onlar eğitim kitapları pentesting için gereksiz bilgileri de kapsar. [İstersen bir bak.](https://www.youtube.com/watch?v=QKfk7YFILws)
 - [Bad USB nedir? Neden kullanılır? Nasıl kullanılır?](https://www.youtube.com/watch?v=nJwpshMnQUg)
@@ -859,19 +880,18 @@ Python öğrenmek isteyenler için en iyi kaynaklar seçildi.
 - https://www.youtube.com/watch?v=PD8r9ISYgQo << Web geliştirme ve birçok programlama dili için güzel bir kaynak, bu videoda HTTP temelleri de var.
 
 ## Diğer
-- Harvard Üniversitesinin, Bilgisayar Bilimlerine giriş dersi olan CS50'nin 2019'daki derslerinin tamamen türkçeleştirilmiş hali: https://www.kodluyoruz.org/cs50  
+
+- Harvard Üniversitesinin, Bilgisayar Bilimlerine giriş dersi olan CS50'nin 2019'daki derslerinin tamamen türkçeleştirilmiş hali: https://www.kodluyoruz.org/cs50
 - Ayrica topluluktan Furkan Taşdemir'in [şöyle](https://github.com/FurkanTsdmr/ETIK-HACKER/blob/main/K%C4%B0TAP.md) bir eğitim notları kitabı var.
 
 ---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
-
 
 <a name="makaleler"></a>
 
 ---
+
 <h1 align="center">Makaleler</h1>
 
 - [En çok kullanılan araçlar](https://prune2000.github.io/tools/pentest)
@@ -880,15 +900,13 @@ Python öğrenmek isteyenler için en iyi kaynaklar seçildi.
 - [Siber güvenlik hakkında kendini geliştirmek isteyenlere özel tavsiyeler](https://www.reddit.com/r/trsec/comments/dmuxue/g%C3%BCvenlik_alan%C4%B1nda_kendini_geli%C5%9Ftirmek_isteyen)
 
 ---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
-
 
 <a name="networkpentesting"></a>
 
 ---
+
 <h1 align="center">Network Pentesting</h1>
 
 - [Beginner Network Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
@@ -896,39 +914,34 @@ Python öğrenmek isteyenler için en iyi kaynaklar seçildi.
 - [Network Penetration Testing](https://www.youtube.com/watch?time_continue=19648&v=3Kq1MIfTWCE)
 - [Zero to Hero Pentesting](https://www.thecybermentor.com/zero-to-hero-pentesting)
 
-
 ---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
-
 
 <a name="tumgecmistwitchyayinlari"></a>
 
 ---
+
 <h1 align="center">Tüm Geçmiş Twitch Yayınları</h1>
 
-- Tüm Geçmiş Twitch Yayınları burada: 
-https://www.twitch.tv/lunizz/videos 
+- Tüm Geçmiş Twitch Yayınları burada:
+  https://www.twitch.tv/lunizz/videos
 
 - Ayrıca verdiğim ders yayınların playlist hali:
-https://www.twitch.tv/collections/JbIfA4EXwxXZ_A 
+https://www.twitch.tv/collections/JbIfA4EXwxXZ_A
 <p>&nbsp;</p>
 
-#### Eğer eğitim videolarına bakacaksan, *"Hacking the TEMEL"* serisi adındaki video serisine bak. *"TEMELDEN"* başlayarak anlatıyor orada.
+#### Eğer eğitim videolarına bakacaksan, _"Hacking the TEMEL"_ serisi adındaki video serisine bak. _"TEMELDEN"_ başlayarak anlatıyor orada.
+
 <br>
-- Mouse'u resimdeki alana götürdüğünüzde tüm ders videoları arasında geçiş yapabilirsiniz...  
+- Mouse'u resimdeki alana götürdüğünüzde tüm ders videoları arasında geçiş yapabilirsiniz...
 
    <img width="500" src="https://i.ibb.co/cy4TMWx/dersler1.png" alt="dersler1" border="0">  
    <img width="500" src="https://i.ibb.co/x5dzv2G/dersler2.png" alt="dersler2" border="0">
 
 ---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
-
 
 <a name="tweetbelgeseli"></a>
 
@@ -937,19 +950,18 @@ https://www.twitch.tv/collections/JbIfA4EXwxXZ_A
 <h1 align="center">Tweet Belgeseli</h1>
 
 # Şöyle bir twit bilgiseli var... bir bak istersen...
-- https://threadreaderapp.com/thread/1343553657523085313.html  
-- https://twitter.com/CanDeger/status/1343553657523085313 
+
+- https://threadreaderapp.com/thread/1343553657523085313.html
+- https://twitter.com/CanDeger/status/1343553657523085313
 
 ---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
-
 
 <a name="bazitwitterhesaplari"></a>
 
 ---
+
 <h1 align="center">Twitter'dan Takip Edilebilecek Bazı Kişiler</h1>
 
 - [Yabancılar Tam liste](https://heimdalsecurity.com/blog/best-twitter-cybersec-accounts)
@@ -993,4 +1005,5 @@ https://www.twitch.tv/collections/JbIfA4EXwxXZ_A
 - [yasinsurer](https://twitter.com/yasinsurer)
 
 ---
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
